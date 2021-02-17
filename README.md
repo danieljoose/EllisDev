@@ -6,7 +6,7 @@ Baixar e instalar o WampServer.
 
 ### 2. Colocar o código baixado na pasta ***wamp64/www***
 
-![passo2](https://ibb.co/vz7MQ2C)
+<img src=“https://ibb.co/vz7MQ2C">
 
 ### 3. Entrar em ***localhost*** no browser
 Ao entrar em 'localhost' pelo browser, clica na opção **"Adicionar Virtual Host"**
