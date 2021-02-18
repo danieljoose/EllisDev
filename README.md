@@ -43,7 +43,7 @@ Senha: *DEIXAR VAZIO*
 
 Depois de adicionar, clicar em 'Executar' para criar o banco de dados e a tabela.
 
-![passo8](https://ibb.co/Q6L2mDt)
+![passo8](https://i.ibb.co/K9dMyKS/capturar1.png)
 
 ### 9. Acessar a URL 'localhost/EllisDev/codeIgniter/index.php' !!!
 
