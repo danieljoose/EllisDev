@@ -48,6 +48,8 @@ Depois de adicionar, clicar em 'Executar' para criar o banco de dados e a tabela
 ### 9. Acessar a URL 'localhost/EllisDev/codeIgniter/index.php' !!!
 
 
-##### Como ficou a tela final:
+#### Como ficou a tela final:
 
 ![telafull](https://i.ibb.co/hL823JF/image.png)
+
+![telaresponsiva](https://i.ibb.co/8m4fJKh/image.png)
